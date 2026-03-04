@@ -23,6 +23,8 @@ Things that were changed from base game:
 * UI is hidden during battle. (Render call is skipped)
 * Level up info is skipped. (Only plays a jingle and skips showing the stats)
 
+PLEASE NOTE: I haven't tested it beyond viridian forest, I get the feeling everything should be ok but I have no idea. You're welcome to download the repository and improve the whole thing in whichever way you want, I just leave this as it is!
+
 ## See also
 
 - [**Disassembly of Pokémon Red/Blue**][pokered]
