@@ -12,6 +12,17 @@ Sorry I couldn't figure for the life of me how to make it look good, so I'll jus
 
 ![Title screen](https://i.imgur.com/yVfByoG.png) ![1](https://i.imgur.com/YJOYJaU.png) ![2](https://i.imgur.com/7Q2Itg1.png) ![3](https://i.imgur.com/yqq0bBN.png)
 
+Things that were changed from base game:
+
+* Attack names are all obscured. (Attack names changed to ????)
+* Pokemon types are all obscure (Type names changed to ?)
+* Party view hides HP and Level.
+* Status screen cannot be accessed from Party menu. (Prints a message)
+* Status screen cannot be accessed from Battle menu. (Prints a message)
+* Status screen cannot be accessed from Bill's PC menu. (Cancels out)
+* UI is hidden during battle. (Render call is skipped)
+* Level up info is skipped. (Only plays a jingle and skips showing the stats)
+
 ## See also
 
 - [**Disassembly of Pokémon Red/Blue**][pokered]
