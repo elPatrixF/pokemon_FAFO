@@ -10,6 +10,8 @@ Sorry I couldn't figure for the life of me how to make it look good, so I'll jus
 
 [**Sample video here.**][preview]
 
+![Title screen](https://i.imgur.com/yVfByoG.png) ![1](https://i.imgur.com/YJOYJaU.png) ![2](https://i.imgur.com/7Q2Itg1.png) ![3](https://i.imgur.com/yqq0bBN.png)
+
 ## See also
 
 - [**Disassembly of Pokémon Red/Blue**][pokered]
