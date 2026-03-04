@@ -15,7 +15,7 @@ Sorry I couldn't figure for the life of me how to make it look good, so I'll jus
 Things that were changed from base game:
 
 * Attack names are all obscured. (Attack names changed to ????)
-* Pokemon types are all obscure (Type names changed to ?)
+* Pokemon types are all obscured (Type names changed to ?)
 * Party view hides HP and Level.
 * Status screen cannot be accessed from Party menu. (Prints a message)
 * Status screen cannot be accessed from Battle menu. (Prints a message)
