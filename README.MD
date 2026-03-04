@@ -8,8 +8,11 @@ In a way this is what being a normal pokemon trainer would feel like, without an
 
 Sorry I couldn't figure for the life of me how to make it look good, so I'll just post a zip with the entire repository modified, you figure it out.
 
+[**Sample video here.**][preview]
+
 ## See also
 
 - [**Disassembly of Pokémon Red/Blue**][pokered]
 
 [pokered]: https://github.com/pret/pokered
+[preview]: https://bsky.app/profile/did:plc:biouhdj7o3nsuth5irlickaz/post/3mgb23j43vk26
