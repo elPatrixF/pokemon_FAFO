@@ -27,6 +27,8 @@ The whole point of this hack is to make it more difficult to figure out what is 
 
 [**Sample video of Pokemon EMERALD here.**][preview2]
 
+# Changes from Base game
+
 Things that were changed from base game Pokemon Red:
 
 * Attack names are all obscured. (Attack names changed to ????)
@@ -54,6 +56,11 @@ Things that were changed from base game Pokemon Emerald:
 * Opponent does not reveal what pokemon they're about to send out
 
 PLEASE NOTE: I haven't tested pokemon Red beyond viridian forest, I get the feeling everything should be ok but I have no idea. You're welcome to download the repository and improve the whole thing in whichever way you want, I just leave this as it is!
+
+# Known Issues (Emerald v1.0):
+
+* TM and HM information is not hidden in the bag, but to be fair we can consider that just info written on the tag. Consider it like having a CD with a tutorial. The attack name Still shows up as ??? though, so you'll have to infer the actual use of the attack from the description, or the Power/PP/Type
+* HM moves WILL show up in the party list.
 
 Also I'm currently manually and very slowly testing pokemon emerald (Just playing it lol) to see if there's any bugs. I have no idea if the Battle Frontier will work, or if Double Battles are fine, but they SHOULD be.
 
