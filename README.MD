@@ -7,7 +7,8 @@ The whole point of this hack is to make it more difficult to figure out what is 
 
 * [Pokemon RED FA&FO version](https://github.com/elPatrixF/pokemon_FAFO/releases/download/red/pokered.gbc)
 * [Pokemon BLUE FA&FO version](https://github.com/elPatrixF/pokemon_FAFO/releases/download/red/pokeblue.gbc)
-* [Pokemon EMERALD FA&FO version](https://github.com/elPatrixF/pokemon_FAFO/releases/download/emerald/pokeemerald_fafo.gba)
+* [Pokemon EMERALD FA&FO version v1.0](https://github.com/elPatrixF/pokemon_FAFO/releases/download/emerald/pokeemerald_fafo.gba)
+* [Pokemon EMERALD FA&FO version v1.0.1](https://github.com/elPatrixF/pokemon_FAFO/releases/download/emerald/pokeemerald_fafo_1.0.1.gba)
 * Check the [releases page](https://github.com/elPatrixF/pokemon_FAFO/releases) for more information.
 
 # Screenshots and videos
