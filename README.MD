@@ -1,10 +1,16 @@
 # Pokémon FA&FO EDITION
-Two modifications, based on the [**disassembly of Pokémon Red/Blue**][pokered] and the [**disassembly of Pokémon Emerald**][pokemerald]. This is a modification of Pokemon that makes all Status screens unreachable, hides most UI elements, and hides the names of all attacks.
-FA&FO stands for Pokémon Fumble Around & Find Out! (Obviously)
+Two modifications, based on the [**disassembly of Pokémon Red/Blue**][pokered] and the [**disassembly of Pokémon Emerald**][pokemerald]. This is a modification of Pokemon that makes all Status screens unreachable, hides most UI elements, and hides the names of all attacks, among other things to make the game feel more like you're really a regular person training a Pokémon. FA&FO stands for Pokémon Fumble Around & Find Out! (Obviously)
 
 The whole point of this hack is to make it more difficult to figure out what is going on at any given moment, and the only way to find out is through trial and error, or research, or from vibes alone.
 
-In a way this is what being a normal pokemon trainer would feel like, without any additional help
+# Download here
+
+* [Pokemon RED FA&FO version](https://github.com/elPatrixF/pokemon_FAFO/releases/download/red/pokered.gbc)
+* [Pokemon BLUE FA&FO version](https://github.com/elPatrixF/pokemon_FAFO/releases/download/red/pokeblue.gbc)
+* [Pokemon EMERALD FA&FO version](https://github.com/elPatrixF/pokemon_FAFO/releases/download/emerald/pokeemerald_fafo.gba)
+* Check the [releases page](https://github.com/elPatrixF/pokemon_FAFO/releases) for more information.
+
+# Screenshots and videos
 
 ![Title screen](https://i.imgur.com/yVfByoG.png)
 ![1](https://i.imgur.com/YJOYJaU.png)
