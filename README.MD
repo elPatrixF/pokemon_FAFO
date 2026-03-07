@@ -24,7 +24,6 @@ The whole point of this hack is to make it more difficult to figure out what is 
 ![One](https://i.imgur.com/YYjWWvv.png)
 ![two](https://i.imgur.com/ZIMQc6S.png)
 ![three](https://i.imgur.com/YbyFqqj.png)
-![four](https://i.imgur.com/DCavxTh.png)
 
 [**Sample video of Pokemon EMERALD here.**][preview2]
 
