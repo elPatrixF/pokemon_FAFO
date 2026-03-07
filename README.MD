@@ -62,7 +62,7 @@ PLEASE NOTE: I haven't tested pokemon Red beyond viridian forest, I get the feel
 * TM and HM information is not hidden in the bag, but to be fair we can consider that just info written on the tag. Consider it like having a CD with a tutorial. The attack name Still shows up as ??? though, so you'll have to infer the actual use of the attack from the description, or the Power/PP/Type
 * HM moves WILL show up in the party list.
 
-Also I'm currently manually and very slowly testing pokemon emerald (Just playing it lol) to see if there's any bugs. I have no idea if the Battle Frontier will work, or if Double Battles are fine, but they SHOULD be.
+Also I'm currently manually and very slowly testing pokemon emerald (Just playing it lol) to see if there's any bugs. Double Battles work fine. I have no idea if Contests or the Battle Frontier will work, but they SHOULD.
 
 ## See also
 
