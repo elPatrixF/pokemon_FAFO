@@ -6,13 +6,13 @@ The whole point of this hack is to make it more difficult to figure out what is 
 
 In a way this is what being a normal pokemon trainer would feel like, without any additional help
 
-[**Sample video of Pokemon RED here.**][preview]
-[**Sample video of Pokemon EMERALD here.**][preview2]
-
-Pokemon Red FA&FO
 ![Title screen](https://i.imgur.com/yVfByoG.png) ![1](https://i.imgur.com/YJOYJaU.png) ![2](https://i.imgur.com/7Q2Itg1.png) ![3](https://i.imgur.com/yqq0bBN.png)
-Pokemon Emerald FA&FO
+
+[**Sample video of Pokemon RED here.**][preview]
+
 ![Title Screen](https://i.imgur.com/9iew1f2.png)![Party view](https://i.imgur.com/0AjM5vm.png)![One](https://i.imgur.com/YYjWWvv.png)![two](https://i.imgur.com/ZIMQc6S.png)
+
+[**Sample video of Pokemon EMERALD here.**][preview2]
 
 Things that were changed from base game Pokemon Red:
 
@@ -52,4 +52,4 @@ Also I'm currently manually and very slowly testing pokemon emerald (Just playin
 [pokered]: https://github.com/pret/pokered
 [pokemerald]: https://github.com/pret/pokeemerald
 [preview]: https://bsky.app/profile/did:plc:biouhdj7o3nsuth5irlickaz/post/3mgb23j43vk26
-[preview2]: https://bsky.app/profile/did:plc:biouhdj7o3nsuth5irlickaz/post/3mgb23j43vk26
+[preview2]: https://bsky.app/profile/elpatrixf.com/post/3mghy7rdb522s
