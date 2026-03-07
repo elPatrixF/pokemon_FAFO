@@ -6,11 +6,19 @@ The whole point of this hack is to make it more difficult to figure out what is 
 
 In a way this is what being a normal pokemon trainer would feel like, without any additional help
 
-![Title screen](https://i.imgur.com/yVfByoG.png) ![1](https://i.imgur.com/YJOYJaU.png) ![2](https://i.imgur.com/7Q2Itg1.png) ![3](https://i.imgur.com/yqq0bBN.png)
+![Title screen](https://i.imgur.com/yVfByoG.png)
+![1](https://i.imgur.com/YJOYJaU.png)
+![2](https://i.imgur.com/7Q2Itg1.png)
+![3](https://i.imgur.com/yqq0bBN.png)
 
 [**Sample video of Pokemon RED here.**][preview]
 
-![Title Screen](https://i.imgur.com/9iew1f2.png)![Party view](https://i.imgur.com/0AjM5vm.png)![One](https://i.imgur.com/YYjWWvv.png)![two](https://i.imgur.com/ZIMQc6S.png)
+![Title Screen](https://i.imgur.com/9iew1f2.png)
+![Party view](https://i.imgur.com/0AjM5vm.png)
+![One](https://i.imgur.com/YYjWWvv.png)
+![two](https://i.imgur.com/ZIMQc6S.png)
+![three](https://i.imgur.com/YbyFqqj.png)
+![four](https://i.imgur.com/DCavxTh.png)
 
 [**Sample video of Pokemon EMERALD here.**][preview2]
 
