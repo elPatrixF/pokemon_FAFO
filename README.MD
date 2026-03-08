@@ -60,9 +60,7 @@ PLEASE NOTE: I haven't tested pokemon Red beyond viridian forest, I get the feel
 
 # Known Issues for Pokemon Emerald:
 
-* TM and HM information is not hidden in the bag, but to be fair we can consider that just info written on the tag. Consider it like having a CD with a tutorial. The attack name Still shows up as ??? though, so you'll have to infer the actual use of the attack from the description, or the Power/PP/Type
-* Field moves *ALSO* show up as ??? in the party list. This is an oversight but I guess the game is still playable if you remember which move is which.
-* yES i forgot about the *POKéNAV* OK. Just don't use it if you don't want to be spoiled about the actual level of your pokemon, consider it a rich kid privilege. Maybe I'll lobotomize in a future patch but for now it's a completely optional feature so just ignore it. You control the buttons you press.
+[Please check the release page for more details about the current known issues and bugs.](https://github.com/elPatrixF/pokemon_FAFO/releases/tag/emerald)
 
 Also I'm currently manually and very slowly testing pokemon emerald (Just playing it lol) to see if there's any bugs. Double Battles work fine. I have no idea if Contests or the Battle Frontier will work, but they SHOULD.
 
