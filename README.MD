@@ -18,7 +18,7 @@ The whole point of this hack is to make it more difficult to figure out what is 
 ![2](https://i.imgur.com/7Q2Itg1.png)
 ![3](https://i.imgur.com/yqq0bBN.png)
 
-[**Sample video of Pokemon RED here.**][preview]
+[**Sample video of Pokemon RED here.**][preview] - [(On Twitter)](https://twitter.com/elpatrixf/status/2029281398062776719)
 
 ![Title Screen](https://i.imgur.com/9iew1f2.png)
 ![Party view](https://i.imgur.com/0AjM5vm.png)
@@ -26,7 +26,7 @@ The whole point of this hack is to make it more difficult to figure out what is 
 ![two](https://i.imgur.com/ZIMQc6S.png)
 ![three](https://i.imgur.com/YbyFqqj.png)
 
-[**Sample video of Pokemon EMERALD here.**][preview2]
+[**Sample video of Pokemon EMERALD here.**][preview2] - [(On Twitter)](https://twitter.com/elpatrixf/status/2030281559882842380)
 
 Regular Version: (All attack names are "???")
 
