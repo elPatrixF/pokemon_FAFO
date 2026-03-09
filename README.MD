@@ -32,7 +32,7 @@ Regular Version: (All attack names are "???")
 
 ![Regular Version](https://i.imgur.com/bMFHlr8.png)
 
-"Midcore" Version: (Each attack has a unique, fixed name that can be written down)
+"Midcore" Version: (Each attack has a unique, fixed, nonsensical name that can be written down)
 
 ![Midcore Version](https://i.imgur.com/v98rJhh.png)
 
