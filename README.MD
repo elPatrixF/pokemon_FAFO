@@ -28,6 +28,15 @@ The whole point of this hack is to make it more difficult to figure out what is 
 
 [**Sample video of Pokemon EMERALD here.**][preview2]
 
+Regular Version: (All attack names are "???")
+
+![Regular Version](https://i.imgur.com/bMFHlr8.png)
+
+"Midcore" Version: (Each attack has a unique, fixed name that can be written down)
+
+![Midcore Version](https://i.imgur.com/v98rJhh.png)
+
+
 # Changes from Base game
 
 Things that were changed from base game Pokemon Red:
