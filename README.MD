@@ -7,8 +7,8 @@ The whole point of this hack is to make it more difficult to figure out what is 
 
 * [Pokemon RED FA&FO version](https://github.com/elPatrixF/pokemon_FAFO/releases/download/red/pokered.gbc)
 * [Pokemon BLUE FA&FO version](https://github.com/elPatrixF/pokemon_FAFO/releases/download/red/pokeblue.gbc)
-* [Pokemon EMERALD FA&FO version v1.0.2a](https://github.com/elPatrixF/pokemon_FAFO/releases/download/emerald/pokeemerald_fafo_1.0.2a.gba)
-* [Pokemon EMERALD FA&FO version v1.0.2a (midcore)](https://github.com/elPatrixF/pokemon_FAFO/releases/download/emerald/pokeemerald_fafo_1.0.2a_midcore.gba) (See screenshots below)
+* [Pokemon EMERALD FA&FO version v1.1.0](https://github.com/elPatrixF/pokemon_FAFO/releases/download/emerald/pokeemerald_fafo_1.1.0.gba)
+* [Pokemon EMERALD FA&FO version v1.1.0 (midcore)](https://github.com/elPatrixF/pokemon_FAFO/releases/download/emerald/pokeemerald_fafo_1.1.0_midcore.gba) (See screenshots below)
 * Check the [releases page](https://github.com/elPatrixF/pokemon_FAFO/releases) for more information.
 
 # Screenshots and videos
@@ -36,6 +36,9 @@ Regular Version: (All attack names are "???")
 
 ![Midcore Version](https://i.imgur.com/v98rJhh.png)
 
+New in 1.1.0: Single-use "POKé TEST KIT" object that lets you see your Pokemon stats.
+
+![POKé TEST KIT](https://i.imgur.com/BxwgddL.png) ![POKé TEST KIT 2](https://i.imgur.com/0TGsNpS.png)
 
 # Changes from Base game
 
