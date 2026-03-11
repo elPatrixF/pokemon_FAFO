@@ -72,7 +72,10 @@ PLEASE NOTE: I haven't tested pokemon Red beyond viridian forest, I get the feel
 
 # Known Issues for Pokemon Emerald:
 
-[Please check the release page for more details about the current known issues and bugs.](https://github.com/elPatrixF/pokemon_FAFO/releases/tag/emerald)
+* Since this is a modification of the source code, all the offsets are different from the Original game, so *Randomizers and rom patches do not work on this rom*. If you really really want to try a randomized version of this I can maybe figure out how to make a randomizer for this myself :( but it's going to be PRETTY difficult.
+* If you started playing on v1.0.0 and updated to v1.1.0 you will NOT have the free POKé TEST KITs from the start of the game :( but in case of emergency, saves from 1.0.0 are compatible with the base unmodified game, so you can copy the save data to the original rom, and check information from there, if you really REALLY must know info.
+  * The only reason they might not be compatible is because the POKé TEST KIT is a new object that isn't present in the base game.
+* [Please check the release page for more details about the current known issues and bugs.](https://github.com/elPatrixF/pokemon_FAFO/releases/tag/emerald)
 
 Also I'm currently manually and very slowly testing pokemon emerald (Just playing it lol) to see if there's any bugs. Double Battles work fine. I have no idea if Contests or the Battle Frontier will work, but they SHOULD.
 
